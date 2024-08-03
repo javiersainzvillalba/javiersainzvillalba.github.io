@@ -49,11 +49,14 @@ aside {
   padding: 1em;
   width: 250px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  flex-shrink: 0;
 }
 
 aside img {
   max-width: 100%;
   border-radius: 50%;
+  display: block;
+  margin: 0 auto 1em auto;
 }
 
 aside h2 {
@@ -74,3 +77,4 @@ footer {
   width: 100%;
   bottom: 0;
 }
+

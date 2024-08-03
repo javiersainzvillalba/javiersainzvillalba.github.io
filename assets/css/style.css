@@ -83,7 +83,7 @@ aside {
 
 aside img {
   max-width: 100%;
-  border-radius: 3%;
+  border-radius: 50%;
   display: block;
   margin: 0 auto 20px auto;
 }
@@ -91,6 +91,15 @@ aside img {
 aside h2 {
   margin-top: 0;
   text-align: center;
+}
+
+.biomedical-engineer {
+  text-align: center;
+  font-size: 1.2em;
+  border: 2px solid #333; /* Estilo del borde */
+  padding: 10px;
+  border-radius: 10px; /* Borde redondeado */
+  margin-bottom: 15px; /* Espacio inferior */
 }
 
 main {
@@ -112,4 +121,3 @@ footer {
   bottom: 0;
   width: 100%;
 }
-

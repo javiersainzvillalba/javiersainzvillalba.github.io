@@ -5,4 +5,9 @@ permalink: /blog/
 nav: true
 ---
 
-This is the blog page. List your blog posts here.
+## Blog
+
+### Recent Posts
+
+- **[Blog Post Title](#)** - Summary of the blog post.
+- **[Another Blog Post](#)** - Summary of the blog post.

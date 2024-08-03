@@ -12,7 +12,6 @@ body {
 
 header {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   background: #4a4a4a;
   color: #fff;
@@ -24,6 +23,10 @@ header h1 {
   margin: 0;
   font-size: 2em;
   color: #007bff; /* Color del título */
+}
+
+header nav {
+  margin-left: 20px; /* Reduce la distancia aquí */
 }
 
 header nav ul {

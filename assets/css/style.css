@@ -114,6 +114,7 @@ aside h2 {
   height: 15px;
   margin-right: 10px; /* Espacio entre el ícono y el enlace */
   margin-left: 0px;
+  margin-bottom: 0px;
 }
 
 main {

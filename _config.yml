@@ -1,7 +1,8 @@
 title: "Your Name / Site Title"
 email: "your-email@example.com"
 description: "Short biography for the left-hand sidebar"
-theme: minima
+baseurl: "" # se debe dejar vacío para GitHub Pages
+url: "https://tu-usuario.github.io/tu-repositorio" # URL de tu repositorio
 header_pages:
   - about.md
   - publications.md
@@ -26,4 +27,3 @@ sidebar:
         url: "https://github.com"
       - label: "Bluesky"
         url: "https://blueskyweb.xyz"
-

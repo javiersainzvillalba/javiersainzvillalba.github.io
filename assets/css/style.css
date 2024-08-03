@@ -103,6 +103,16 @@ aside h2 {
   line-height: 0.15;
 }
 
+.social-links p {
+  display: flex;
+  align-items: center;
+  margin: 5px 0; /* Ajuste del margen */
+}
+
+.social-links img.social-icon {
+  margin-right: 10px; /* Espacio entre el ícono y el enlace */
+}
+
 main {
   flex: 1;
   padding: 20px;

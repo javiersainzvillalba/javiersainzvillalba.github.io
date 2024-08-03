@@ -34,7 +34,7 @@ header h1 a:hover {
 }
 
 header nav {
-  margin-left: auto; /* Mueve el menú al extremo derecho */
+  margin-left: 20px; /* Mueve el menú al extremo derecho */
 }
 
 header nav ul {

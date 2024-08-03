@@ -12,7 +12,7 @@ header_pages:
   - blog.md
 
 sidebar:
-  - name: "Your Sidebar Name"
+  - name: "Your Name"
     email: "your-email@example.com"
     links:
       - label: "Email"
@@ -27,4 +27,3 @@ sidebar:
         url: "https://github.com"
       - label: "Bluesky"
         url: "https://blueskyweb.xyz"
-

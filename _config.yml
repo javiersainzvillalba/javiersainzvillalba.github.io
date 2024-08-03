@@ -1,0 +1,28 @@
+title: "Your Name / Site Title"
+email: "your-email@example.com"
+description: "Short biography for the left-hand sidebar"
+theme: minima
+header_pages:
+  - about.md
+  - publications.md
+  - talks.md
+  - teaching.md
+  - portfolio.md
+  - blog.md
+
+sidebar:
+  - name: "Your Sidebar Name"
+    email: "your-email@example.com"
+    links:
+      - label: "Email"
+        url: "mailto:your-email@example.com"
+      - label: "Google Scholar"
+        url: "https://scholar.google.com"
+      - label: "ORCID"
+        url: "https://orcid.org"
+      - label: "PubMed"
+        url: "https://pubmed.ncbi.nlm.nih.gov"
+      - label: "Github"
+        url: "https://github.com"
+      - label: "Bluesky"
+        url: "https://blueskyweb.xyz"

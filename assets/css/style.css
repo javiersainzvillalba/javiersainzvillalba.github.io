@@ -110,7 +110,10 @@ aside h2 {
 }
 
 .social-links img.social-icon {
+  width: 15px;
+  height: 15px;
   margin-right: 10px; /* Espacio entre el ícono y el enlace */
+  margin-left: 0px;
 }
 
 main {

@@ -21,6 +21,7 @@ header {
 header h1 {
   margin: 0;
   font-size: 2em;
+  font-family: 'Lobster', cursive; /* Aplica la fuente artística */
 }
 
 header h1 a {

@@ -23,10 +23,4 @@
       <img src="{{ '/assets/images/icons/github.png' | relative_url }}" alt="GitHub Icon" class="social-icon">
       <a href="https://github.com/yourprofile">GitHub</a>
     </p>
-  <ul>
-    <li><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-    {% for link in site.sidebar.links %}
-      <li><strong>{{ link.label }}:</strong> <a href="{{ link.url }}">{{ link.label }}</a></li>
-    {% endfor %}
-  </ul>
 </div>

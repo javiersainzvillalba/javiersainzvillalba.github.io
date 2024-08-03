@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   color: #333;
-  line-height: 1.6;
+  line-height: 1;
   background: #f4f4f4;
   display: flex;
   flex-direction: column;
@@ -13,7 +13,7 @@ body {
 header {
   display: flex;
   align-items: center;
-  background: #4a4a4a;
+  background: #fff;
   color: #fff;
   padding: 1em 2em;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -61,14 +61,14 @@ header nav ul li a:hover {
 }
 
 aside {
-  background: #4a4a4a;
+  background: #fff;
   padding: 20px;
   width: 250px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   flex-shrink: 0;
   margin-right: 20px;
-  color: #fff;
+  color: #333;
 }
 
 aside img {
@@ -92,8 +92,8 @@ main {
 }
 
 footer {
-  background: #4a4a4a;
-  color: #fff;
+  background: #fff;
+  color: #333;
   text-align: center;
   padding: 0.5em 0;
   font-size: 0.8em;

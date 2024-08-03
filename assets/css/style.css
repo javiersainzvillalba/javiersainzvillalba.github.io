@@ -21,11 +21,20 @@ header {
 header h1 {
   margin: 0;
   font-size: 2em;
-  color: #007bff; /* Color del título */
+}
+
+header h1 a {
+  color: #333; /* Color del texto por defecto */
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+header h1 a:hover {
+  color: #007bff; /* Color del texto al pasar el ratón */
 }
 
 header nav {
-  margin-left: 20px; /* Reduce la distancia aquí */
+  margin-left: auto; /* Mueve el menú al extremo derecho */
 }
 
 header nav ul {
@@ -102,6 +111,4 @@ footer {
   bottom: 0;
   width: 100%;
 }
-
-
 

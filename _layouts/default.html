@@ -24,18 +24,13 @@
   <div class="content">
     <aside>
       {% include sidebar.html %}
-      <!-- Nueva sección para el QR -->
     </aside>
+    <!-- Nueva sección para el QR debajo del sidebar -->
     <div class="qr-container">
       <img src="{{ '/assets/images/qr.png' | relative_url }}" alt="QR Code" class="qr-code">
     </div>
     <main class="scrollable-content">
       {{ content }}
-      <!-- Nueva caja para About Me -->
-      <div class="about-me">
-        <h2>About Me</h2>
-        <p>Here is some information about me.</p>
-      </div>
     </main>
   </div>
   <footer>
@@ -43,6 +38,7 @@
   </footer>
 </body>
 </html>
+
 
 
 

@@ -7,26 +7,6 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lobster&display=swap">
 </head>
-<script>
-  function adjustAsideHeight() {
-    var aside = document.querySelector('aside');
-    var footer = document.querySelector('footer');
-    var asideRect = aside.getBoundingClientRect();
-    var footerRect = footer.getBoundingClientRect();
-    var marginBottom = window.innerHeight - asideRect.bottom;
-
-    if (marginBottom < 20) {
-      aside.style.height = `calc(550px - ${footerRect.height}px)`;
-      aside.style.overflowY = 'auto';
-    } else {
-      aside.style.height = '550px';
-      aside.style.overflowY = 'hidden';
-    }
-  }
-
-  window.addEventListener('resize', adjustAsideHeight);
-  window.addEventListener('load', adjustAsideHeight);
-</script>
 
 <body>
   <header>
@@ -52,6 +32,26 @@
   <footer>
     <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
   </footer>
+<script>
+  function adjustAsideHeight() {
+    var aside = document.querySelector('aside');
+    var footer = document.querySelector('footer');
+    var asideRect = aside.getBoundingClientRect();
+    var footerRect = footer.getBoundingClientRect();
+    var marginBottom = window.innerHeight - asideRect.bottom;
+
+    if (marginBottom < 20) {
+      aside.style.height = `calc(550px - ${footerRect.height}px)`;
+      aside.style.overflowY = 'auto';
+    } else {
+      aside.style.height = '550px';
+      aside.style.overflowY = 'hidden';
+    }
+  }
+
+  window.addEventListener('resize', adjustAsideHeight);
+  window.addEventListener('load', adjustAsideHeight);
+</script>
 </body>
 </html>
 

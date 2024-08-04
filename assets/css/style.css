@@ -176,73 +176,20 @@ aside h2 {
 }
 
 /* Estilos específicos para la página de inicio */
-a {
-  color: #007bff;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #0056b3;
-}
-
-/* Estilos para la página de inicio */
-.home-intro, .home-section {
-  padding: 60px 20px;
-  margin-bottom: 20px;
-  background: #fff;
+.home-intro {
+  background-color: #f8f9fa;
+  padding: 20px;
   border-radius: 10px;
+  margin: 20px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  max-width: 1200px;
-  margin: 20px auto;
 }
 
-.home-intro p, .home-section p {
-  margin: 0 0 10px;
-}
-
-.home-intro p strong {
-  font-size: 1.2em;
-}
-
-.home-section h2 {
-  text-align: center;
-  margin-bottom: 20px;
-  font-size: 2em;
-  color: #333;
-}
-
-.home-section ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-.home-section ul li {
-  background: #e9ecef;
-  padding: 10px;
-  margin-bottom: 10px;
-  border-radius: 5px;
-}
-
-.home-section ul li strong {
-  color: #007bff;
-}
-
-.home-section ul li:hover {
-  background: #ced4da;
-}
-
-/* Botón principal */
-.btn-primary {
-  background-color: #007bff;
-  color: white;
-  padding: 10px 20px;
-  border-radius: 5px;
-  text-decoration: none;
-  transition: background-color 0.3s ease;
-}
-
-.btn-primary:hover {
-  background-color: #0056b3;
+.home-section {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .home-header {
@@ -276,7 +223,6 @@ a:hover {
 .home-projects li:hover {
   background-color: #ced4da;
 }
-
 main {
   flex: 1;
   padding: 0px;

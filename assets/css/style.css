@@ -250,7 +250,7 @@ footer {
 /* Añadir al final de tu style.css */
 .qr-container {
   margin-top: 20px;
-  text-align: center; /* Centra el QR dentro de la caja */
+  text-align: center;
   background: #fff;
   padding: 10px;
   border-radius: 10px;

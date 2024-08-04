@@ -90,7 +90,7 @@ aside {
   background: #fff;
   padding: 20px;
   width: 250px;
-  height: 100vh; /* Ocupa toda la altura de la ventana */
+  height: 550px; /* Ocupa toda la altura de la ventana */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   flex-shrink: 0;

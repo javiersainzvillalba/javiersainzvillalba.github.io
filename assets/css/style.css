@@ -83,19 +83,22 @@ main.scrollable-content {
   overflow-y: auto; /* Habilita el desplazamiento vertical */
   margin-top: 5px;
   margin-bottom: 5px;
+  overflow-y: auto; /* Habilita el desplazamiento vertical */
 }
 
 aside {
   background: #fff;
   padding: 20px;
   width: 250px;
+  height: 100vh; /* Ocupa toda la altura de la ventana */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   flex-shrink: 0;
   margin-right: 20px;
   color: #333;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  position: sticky; /* Mantiene el aside fijo al hacer scroll */
+  top: 0;
+  overflow-y: auto; /* Habilita el desplazamiento vertical */
 }
 
 aside img {

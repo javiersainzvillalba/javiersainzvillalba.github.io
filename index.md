@@ -38,7 +38,7 @@ nav: false
       <p>Feel free to explore and learn more about my work and experiences through my <a href="cv.pdf">curriculum vitae</a>.</p>
     </div>
 
-    <div class="home-publications">
+  <div class="home-publications">
       <h2>Publications</h2>
       <p>I have published several papers in reputed journals. Here are a few:</p>
       <ul>
@@ -49,3 +49,4 @@ nav: false
     </div>
   </div>
 </div>
+

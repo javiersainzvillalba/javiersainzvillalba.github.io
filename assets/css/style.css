@@ -247,6 +247,21 @@ footer {
   padding: 0px; 
 }
 
+/* Añadir al final de tu style.css */
+.qr-container {
+  margin-top: 20px;
+  text-align: center; /* Centra el QR dentro de la caja */
+  background: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.qr-code {
+  max-width: 100%;
+  height: auto;
+}
+
 /* Media queries para diferentes tamaños de pantalla */
 @media (max-width: 1024px) {
   header {
@@ -259,4 +274,5 @@ footer {
     margin-top: 10px;
   }
 
+  
  

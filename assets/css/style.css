@@ -95,6 +95,7 @@ aside {
   border-radius: 10px;
   flex-shrink: 0;
   margin-right: 20px;
+  margin-top: 5px;
   color: #333;
   position: sticky; /* Mantiene el aside fijo al hacer scroll */
   top: 0;

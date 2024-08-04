@@ -280,11 +280,11 @@ footer {
 .page-title {
   background-color: #007bff;
   color: white;
-  padding: 10px 20px;
-  border-radius: 5px;
+  padding: 3px 20px;
+  border-radius: 5px 5px 0px 0px;
   position: absolute;
   right: 20px;
-  top: 10px;
+  top: 30px;
   font-size: 1.2em;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }

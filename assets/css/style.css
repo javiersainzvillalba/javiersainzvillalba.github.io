@@ -94,6 +94,14 @@ aside h2 {
   text-align: center;
 }
 
+.sidebar img.corner-image {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100px; /* Ajusta el tamaño de la imagen según sea necesario */
+  z-index: 10; /* Asegúrate de que se superponga a otros elementos */
+}
+
 .biomedical-engineer {
   text-align: center;
   font-size: 1.2em;

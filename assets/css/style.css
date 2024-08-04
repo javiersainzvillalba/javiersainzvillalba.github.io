@@ -98,7 +98,7 @@ aside h2 {
   font-size: 1.2em;
   border: 1px solid #333; /* Estilo del borde */
   padding: 0px;
-  border-radius: 8px; /* Borde redondeado */
+  border-radius: 6px; /* Borde redondeado */
   margin-bottom: 0px; /* Espacio inferior */
   line-height: 0.15;
 }

@@ -205,7 +205,7 @@ a:hover {
   text-align: left;
   margin-bottom: 10px;
   margin-top: 0px;
-  font-size: 2em;
+  font-size: 1.5em;
   color: #333;
 }
 
@@ -239,7 +239,7 @@ a:hover {
   background: #fff;
   border-radius: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  padding: 20px;
+  padding: 0px 20px 20px 20px;
 }
 
 .projects ul, .home-research ul, .home-publications ul {

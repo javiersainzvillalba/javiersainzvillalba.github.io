@@ -243,6 +243,7 @@ footer {
   position: sticky;
   bottom: 0;
   width: 100%;
+  padding: 0px; 
 }
 
 /* Media queries para diferentes tamaños de pantalla */

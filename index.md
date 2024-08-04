@@ -4,12 +4,6 @@ title: ""
 nav: false
 ---
 
----
-layout: home
-title: Home
-nav: true
----
-
 <div class="home-header">
   <h1>Welcome to My Personal Website</h1>
 </div>

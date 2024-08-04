@@ -54,7 +54,7 @@ header nav ul li a {
   text-decoration: none;
   padding: 10px 15px;
   border-radius: 5px;
-  background: #fff;
+  background: #f0f0f0;
   transition: background 0.3s ease, color 0.3s ease, transform 0.3s ease;
 }
 
@@ -106,7 +106,7 @@ aside h2 {
 .biomedical-engineer {
   text-align: center;
   font-size: 1.2em;
-  border: 1px solid #d7d7d7;
+  border: none;
   padding: 0px;
   border-radius: 6px;
   margin-bottom: 0px;
@@ -120,9 +120,9 @@ aside h2 {
   text-decoration: none;
   padding: 8px 13px;
   border-radius: 5px;
-  background: #fff;
+  background: #f0f0f0;
   transition: background 0.3s ease, color 0.3s ease, transform 0.3s ease;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
 }
 
 .biomedical-engineer a:hover {

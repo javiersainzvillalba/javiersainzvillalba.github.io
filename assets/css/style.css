@@ -68,7 +68,7 @@ header nav ul li a:hover {
 
 .content {
   display: flex;
-  margin: 20px;
+  margin: 15px;
   flex: 1;
   overflow: hidden; /* Oculta el desbordamiento en el contenedor principal */
 }
@@ -78,16 +78,15 @@ main.scrollable-content {
   padding: 0px;
   background: #fff;
   border-radius: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   overflow-y: auto; /* Habilita el desplazamiento vertical */
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin-top: 2px;
+  margin-bottom: 10px;
   overflow-y: auto; /* Habilita el desplazamiento vertical */
 }
 
 aside {
   background: #fff;
-  padding: 15px;
+  padding: 15px 15px 10px 15px;
   width: 250px;
   height: 550px; /* Ocupa toda la altura de la ventana */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -280,7 +279,6 @@ main {
   padding: 0px;
   background: #fff;
   border-radius: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 footer {
@@ -301,7 +299,7 @@ footer {
   display: flex;
   flex-direction: column;
   align-items: flex-start; /* Alinea el contenido a la izquierda */
-  margin-right: 20px; /* Separación a la derecha */
+  margin-right: 10px; /* Separación a la derecha */
 }
 
 .qr-container {

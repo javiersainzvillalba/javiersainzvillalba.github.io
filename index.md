@@ -49,17 +49,3 @@ nav: false
     <li><strong>Paper 3:</strong> Title, Journal Name, Year</li>
   </ul>
 </div>
-
-<div class="home-section home-contact">
-  <h2>Contact Me</h2>
-  <p>You can contact me at javiersainz@gmail.com. Feel free to reach out if you have any questions or if you are interested in my work.</p>
-</div>
-
-<div class="home-section home-info">
-  <h2>General Information</h2>
-  <ul>
-    <li><strong>Name:</strong> Javier Sainz</li>
-    <li><strong>Location:</strong> Madrid, Spain</li>
-    <li><strong>Date of Birth:</strong> [Include if you are comfortable]</li>
-  </ul>
-</div>

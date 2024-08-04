@@ -25,10 +25,10 @@
     <aside>
       {% include sidebar.html %}
       <!-- Nueva sección para el QR -->
-      <div class="qr-container">
-        <img src="{{ '/assets/images/qr.png' | relative_url }}" alt="QR Code" class="qr-code">
-      </div>
     </aside>
+    <div class="qr-container">
+      <img src="{{ '/assets/images/qr.png' | relative_url }}" alt="QR Code" class="qr-code">
+    </div>
     <main class="scrollable-content">
       {{ content }}
       <!-- Nueva caja para About Me -->
@@ -41,26 +41,6 @@
   <footer>
     <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
   </footer>
-<script>
-  function adjustAsideHeight() {
-    var aside = document.querySelector('aside');
-    var footer = document.querySelector('footer');
-    var asideRect = aside.getBoundingClientRect();
-    var footerRect = footer.getBoundingClientRect();
-    var marginBottom = window.innerHeight - asideRect.bottom;
-
-    if (marginBottom < 20) {
-      aside.style.height = `calc(550px - ${footerRect.height}px)`;
-      aside.style.overflowY = 'auto';
-    } else {
-      aside.style.height = '550px';
-      aside.style.overflowY = 'hidden';
-    }
-  }
-
-  window.addEventListener('resize', adjustAsideHeight);
-  window.addEventListener('load', adjustAsideHeight);
-</script>
 </body>
 </html>
 

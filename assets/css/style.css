@@ -255,12 +255,15 @@ footer {
   padding: 10px;
   border-radius: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 250px; /* Ancho igual que el sidebar */
+  margin-left: 20px; /* Separación a la izquierda */
 }
 
 .qr-code {
   max-width: 100%;
   height: auto;
 }
+
 
 .about-me {
   margin-top: 20px;

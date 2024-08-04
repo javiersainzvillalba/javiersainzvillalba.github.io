@@ -276,6 +276,18 @@ footer {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+/* Añadir al final de tu style.css */
+.page-title {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  font-size: 1.2em;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
 
 /* Media queries para diferentes tamaños de pantalla */
 @media (max-width: 1024px) {

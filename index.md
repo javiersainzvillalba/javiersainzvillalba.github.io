@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Home"
-nav: true
+title: ""
+nav: false
 ---
 
 ## Welcome to My Personal Website

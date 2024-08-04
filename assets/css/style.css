@@ -122,7 +122,7 @@ aside h2 {
   border: none;
   padding: 0px;
   border-radius: 6px;
-  margin-bottom: 0px;
+  margin-bottom: 30px;
   line-height: 0;
   box-shadow: none; /* Eliminar el sombreado */
   transition: color 0.3s ease;
@@ -135,7 +135,6 @@ aside h2 {
   border-radius: 5px;
   background: #f0f0f0;
   transition: background 0.3s ease, color 0.3s ease, transform 0.3s ease;
-  margin-bottom: 30px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 

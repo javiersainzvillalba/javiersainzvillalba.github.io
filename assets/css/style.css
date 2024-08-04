@@ -191,6 +191,9 @@ footer {
     width: 100%;
     justify-content: space-around;
   }
+  aside image {
+  max-width: 50%;
+  }
 }
 
 @media (max-width: 768px) {

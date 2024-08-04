@@ -173,53 +173,108 @@ aside h2 {
   color: #007bff; /* Cambiar a azul al pasar el ratón */
 }
 
-/* Estilos específicos para la página de inicio */
-.home-intro {
-  background-color: #f8f9fa;
-  padding: 0px 20px 0px 20px;
-  border-radius: 10px;
-  margin: 20px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+a {
+  color: #007bff;
+  text-decoration: none;
 }
 
-.home-section {
-  background-color: #fff;
-  padding: 0px 20px 0px 20px;
-  border-radius: 10px;
-  margin: 20px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+a:hover {
+  color: #0056b3;
 }
 
-.home-header {
+/* Estilos para la página de inicio */
+.home-intro, .home-section {
+  padding: 60px 20px;
+  margin-bottom: 20px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
+.home-intro p, .home-section p {
+  margin: 0 0 10px;
+}
+
+.home-intro p strong {
+  font-size: 1.2em;
+}
+
+.home-section h2 {
+  position: relative;
   text-align: center;
+  margin-bottom: 20px;
+  font-size: 2em;
   color: #333;
 }
 
-.home-header h1 {
-  font-family: 'Lobster', cursive;
-  font-size: 2.5em;
+.home-section h2::after {
+  content: '';
+  display: block;
+  width: 50px;
+  height: 3px;
+  background: #007bff;
+  margin: 10px auto 0;
 }
 
-.home-content {
-  font-size: 1.1em;
-  line-height: 1.8;
+/* Diseño de cuadrícula para Projects y Research/Publications */
+.home-projects-research {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
 }
 
-.home-projects ul {
+.projects, .research-publications {
+  flex: 1;
+  min-width: 300px;
+}
+
+.research-publications {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.home-research, .home-publications {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.projects ul, .home-research ul, .home-publications ul {
   list-style-type: none;
   padding: 0;
 }
 
-.home-projects li {
-  background-color: #e9ecef;
+.projects ul li, .home-research ul li, .home-publications ul li {
+  background: #e9ecef;
   padding: 10px;
   margin-bottom: 10px;
   border-radius: 5px;
-  transition: background-color 0.3s;
 }
 
-.home-projects li:hover {
-  background-color: #ced4da;
+.projects ul li strong, .home-research ul li strong, .home-publications ul li strong {
+  color: #007bff;
+}
+
+.projects ul li:hover, .home-research ul li:hover, .home-publications ul li:hover {
+  background: #ced4da;
+}
+
+/* Botón principal */
+.btn-primary {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
 }
 main {
   flex: 1;

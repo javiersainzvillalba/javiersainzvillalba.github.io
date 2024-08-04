@@ -95,11 +95,12 @@ aside h2 {
 }
 
 .sidebar img.corner-image {
-  position: absolute;
-  bottom: 0;
-  right: 0;
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
   width: 100px; /* Ajusta el tamaño de la imagen según sea necesario */
   z-index: 10; /* Asegúrate de que se superponga a otros elementos */
+  margin: 0px 0px 0px 0px;
 }
 
 .biomedical-engineer {

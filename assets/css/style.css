@@ -184,13 +184,12 @@ a:hover {
 
 /* Estilos para la página de inicio */
 .home-intro, .home-section {
-  padding: 60px 20px;
+  padding: 1px 10px;
   margin-bottom: 20px;
   background: #fff;
   border-radius: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  max-width: 1200px;
-  margin: 20px auto;
+  margin: 3px 3px 5px 3px;
 }
 
 .home-intro p, .home-section p {
@@ -203,8 +202,9 @@ a:hover {
 
 .home-section h2 {
   position: relative;
-  text-align: center;
-  margin-bottom: 20px;
+  text-align: left;
+  margin-bottom: 10px;
+  margin-top: 0px;
   font-size: 2em;
   color: #333;
 }
@@ -215,7 +215,6 @@ a:hover {
   width: 50px;
   height: 3px;
   background: #007bff;
-  margin: 10px auto 0;
 }
 
 /* Diseño de cuadrícula para Projects y Research/Publications */

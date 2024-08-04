@@ -21,21 +21,21 @@ header {
 header h1 {
   margin: 0;
   font-size: 2em;
-  font-family: 'Lobster', cursive; /* Aplica la fuente artística */
+  font-family: 'Lobster', cursive;
 }
 
 header h1 a {
-  color: #333; /* Color del texto por defecto */
+  color: #333;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 header h1 a:hover {
-  color: #007bff; /* Color del texto al pasar el ratón */
+  color: #007bff;
 }
 
 header nav {
-  margin-left: 20px; /* Mueve el menú al extremo derecho */
+  margin-left: 20px;
 }
 
 header nav ul {
@@ -50,17 +50,17 @@ header nav ul li {
 }
 
 header nav ul li a {
-  color: #333; /* Color del texto */
+  color: #333;
   text-decoration: none;
   padding: 10px 15px;
   border-radius: 5px;
-  background: #fff; /* Color del fondo */
+  background: #fff;
   transition: background 0.3s ease, color 0.3s ease, transform 0.3s ease;
 }
 
 header nav ul li a:hover {
-  background: #007bff; /* Color de fondo al pasar el ratón */
-  color: #fff; /* Color del texto al pasar el ratón */
+  background: #007bff;
+  color: #fff;
   transform: scale(1.05);
 }
 
@@ -86,7 +86,7 @@ aside img {
   border-radius: 3%;
   display: block;
   margin: 0 auto 20px auto;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Mantener el sombreado para la imagen */
 }
 
 aside h2 {
@@ -97,26 +97,47 @@ aside h2 {
 .biomedical-engineer {
   text-align: center;
   font-size: 1.2em;
-  border: 1px solid #d7d7d7; /* Estilo del borde */
+  border: 1px solid #d7d7d7;
   padding: 0px;
-  border-radius: 6px; /* Borde redondeado */
-  margin-bottom: 0px; /* Espacio inferior */
+  border-radius: 6px;
+  margin-bottom: 0px;
   line-height: 0;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: none; /* Eliminar el sombreado */
+  transition: color 0.3s ease;
+}
+
+.biomedical-engineer a {
+  color: #333;
+  text-decoration: none;
+}
+
+.biomedical-engineer a:hover {
+  color: #007bff;
 }
 
 .social-links p {
   display: flex;
   align-items: center;
-  margin: 5px 0; /* Ajuste del margen */
+  margin: 5px 0;
 }
 
 .social-links img.social-icon {
   width: 15px;
   height: 15px;
-  margin-right: 10px; /* Espacio entre el ícono y el enlace */
+  margin-right: 10px;
   margin-left: 0px;
   margin-bottom: 0px;
+  box-shadow: none; /* Eliminar el sombreado */
+}
+
+.social-links a {
+  color: #333; /* Color negro por defecto */
+  text-decoration: none; /* Sin subrayado */
+  transition: color 0.3s ease; /* Transición de color */
+}
+
+.social-links a:hover {
+  color: #007bff; /* Cambiar a azul al pasar el ratón */
 }
 
 main {
@@ -138,3 +159,4 @@ footer {
   bottom: 0;
   width: 100%;
 }
+

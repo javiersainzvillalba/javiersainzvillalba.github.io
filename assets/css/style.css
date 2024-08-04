@@ -147,7 +147,7 @@ aside h2 {
 .social-links p {
   display: flex;
   align-items: center;
-  margin: 5px 0;
+  margin: 0px 0;
 }
 
 .social-links img.social-icon {

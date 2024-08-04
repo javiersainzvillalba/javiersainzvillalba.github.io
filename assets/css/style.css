@@ -177,7 +177,7 @@ aside h2 {
 
 .home-header {
   text-align: center;
-  color: #007bff;
+  color: #333;
 }
 
 .home-header h1 {
@@ -209,7 +209,7 @@ aside h2 {
 
 main {
   flex: 1;
-  padding: 20px;
+  padding: 0px;
   background: #fff;
   border-radius: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);

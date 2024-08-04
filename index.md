@@ -8,8 +8,6 @@ nav: false
 
 ### Hello,
 
-Hello,
-
 Welcome to my personal webpage. I am a biomedical engineer finishing a Master's degree in the same field at the University of Zaragoza (Spain). I am passionate about tissue engineering, prosthesis and implant design, and rehabilitation applications.
 
 ## About Me

@@ -76,7 +76,7 @@ header nav ul li a:hover {
 main.scrollable-content {
   flex: 1;
   padding: 0px;
-  background: #fff;
+  background: #f4f4f4;
   border-radius: 10px;
   overflow-y: auto; /* Habilita el desplazamiento vertical */
   margin-top: 2px;

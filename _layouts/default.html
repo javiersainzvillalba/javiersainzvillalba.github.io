@@ -15,7 +15,8 @@
       <ul>
         {% for page in site.pages %}
           {% if page.nav %}
-            <li><a href="{{ page.url | relative_url }}"><strong>{{ page.title }}</strong></a></li>
+            <li><a href="{{ page.url | relative_url }}"><strong>{{ page.title }}</strong><img src="{{ '/assets/images/icons/email.png' | relative_url }}" alt="Email" class="social-icon"></a></li>
+        
           {% endif %}
         {% endfor %}
       </ul>

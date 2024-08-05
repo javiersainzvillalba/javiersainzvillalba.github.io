@@ -15,12 +15,12 @@ body {
 header {
   display: flex;
   align-items: center;
-  background: #fff;
+  background: #1E1E1F;
   padding: 0.5em 1.2em;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   width: 950px;
   border-radius: 0px 0px 10px 0px;
   height: 40px;
+  border: 1px solid #383838;
 }
 
 header h1 {
@@ -55,7 +55,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-  color: #333;
+  color: #F7FAFA;
   text-decoration: none;
   padding: 7px 20px 7px 20px;
   border-radius: 5px;
@@ -64,8 +64,7 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
-  background: #007bff;
-  color: #fff;
+  color: #FDCA65;
   transform: scale(1.05);
 }
 

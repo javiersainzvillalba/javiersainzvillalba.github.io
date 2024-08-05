@@ -18,7 +18,7 @@ header {
   background: #fff;
   padding: 0.5em 1.2em;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  width: 988px;
+  width: 993px;
   border-radius: 0px 0px 10px 0px;
   height: 40px;
 }
@@ -188,7 +188,7 @@ a:hover {
 /* Añadir a style.css */
 .research-interests-container {
   margin-top: 5px;
-  text-align: center;
+  text-align: left;
   padding: 5px 20px 5px 20px;
   border-radius: 10px;
   background: #fff;
@@ -198,6 +198,14 @@ a:hover {
 
 .research-interests-container h2 {
   margin-top: 0;
+}
+
+.research-interests-container h2::after {
+  content: '';
+  display: block;
+  width: 50px;
+  height: 3px;
+  background: #007bff;
 }
 
 .research-interests-container ul {

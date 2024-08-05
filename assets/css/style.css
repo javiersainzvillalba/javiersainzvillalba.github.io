@@ -236,8 +236,6 @@ a:hover {
 .projects-column, .publications-column {
   background: #fff;
   padding: 20px;
-  margin-top: 10px;
-  margin-bottom: 10px;
   border-radius: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -271,11 +269,9 @@ a:hover {
   margin: 3px 3px 5px 3px;
 }
 .home-section {
-  margin-bottom: 20px;
-  background: #fff;
+  background: #f4f4f4;
   border-radius: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  margin: 3px 3px 5px 3px;
+  margin: 3px 3px 20px 3px;
 }
 
 .home-intro p, .home-section p {

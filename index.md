@@ -15,16 +15,6 @@ nav: false
 </div>
 
 <div class="home-columns">
-  <div class="left-column">
-    <h2>Research Interests</h2>
-    <ul>
-      <li>Scaffolds</li>
-      <li>Tissue-implant interface</li>
-      <li>Prosthesis design</li>
-      <li>Rehabilitation applications</li>
-    </ul>
-  </div>
-
   <div class="right-columns">
     <div class="projects-column">
       <h2>Projects</h2>

@@ -14,7 +14,7 @@ nav: false
   <p>I have a Bachelor's degree in Biomedical Engineering from the European University of Madrid and a Master's degree from the same field from University of Zaragoza. My research interests include scaffolds, tissue-implant interface, prosthesis, and many more. I have a strong background in both theoretical knowledge and practical applications in biomedical engineering. My background has expanded even more thanks to my Master's degree that has given me autonomy in looking for solutions to medical robotic problems.</p>
 </div>
 
-<div class="home-columns">
+<div class="home-section">
   <div class="right-columns">
     <div class="projects-column">
       <h2>Projects</h2>

@@ -185,6 +185,35 @@ a:hover {
 }
 
 /* Estilos para la página de inicio */
+/* Añadir a style.css */
+.research-interests-container {
+  margin-top: 20px;
+  text-align: left;
+  padding: 20px;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.research-interests-container h2 {
+  margin-top: 0;
+}
+
+.research-interests-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.research-interests-container ul li {
+  background: #e9ecef;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.research-interests-container ul li:hover {
+  background: #ced4da;
+}
 
 .home-columns {
   display: flex;

@@ -187,12 +187,13 @@ a:hover {
 /* Estilos para la página de inicio */
 /* Añadir a style.css */
 .research-interests-container {
-  margin-top: 20px;
-  text-align: left;
-  padding: 20px;
+  margin-top: 5px;
+  text-align: center;
+  padding: 5px 20px 5px 20px;
   border-radius: 10px;
   background: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 240px;
 }
 
 .research-interests-container h2 {
@@ -206,8 +207,8 @@ a:hover {
 
 .research-interests-container ul li {
   background: #e9ecef;
-  padding: 10px;
-  margin-bottom: 10px;
+  padding: 1px 1px 1px 10px;
+  margin-bottom: 4px;
   border-radius: 5px;
 }
 

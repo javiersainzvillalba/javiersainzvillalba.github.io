@@ -278,7 +278,7 @@ a:hover {
 .home-section {
   background: #f4f4f4;
   border-radius: 10px;
-  margin: 3px 3px 20px 3px;
+  margin: 3px 3px 15px 3px;
 }
 
 .home-intro p, .home-section p {
@@ -407,7 +407,7 @@ footer {
 }
 
 .about-me {
-  margin-top: 20px;
+  margin-top: 15px;
   padding: 20px;
   background: #fff;
   border-radius: 10px;

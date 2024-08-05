@@ -30,13 +30,13 @@ header h1 {
 }
 
 header h1 a {
-  color: #FAFAFA;
+  color: #FDCA65;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 header h1 a:hover {
-  color: #FDCA65;
+  color: #FAFAFA;
 }
 
 header nav {
@@ -87,18 +87,18 @@ main.scrollable-content {
 }
 
 aside {
-  background: #fff;
+  background: #1E1E1F;
   padding: 15px 15px 10px 15px;
   width: 250px;
   height: 550px; /* Ocupa toda la altura de la ventana */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   flex-shrink: 0;
   margin-top: 5px;
-  color: #333;
+  color: #fafafa;
   position: sticky; /* Mantiene el aside fijo al hacer scroll */
   top: 0;
   overflow-y: auto; /* Habilita el desplazamiento vertical */
+  border: 1px solid #383838;
 }
 
 aside img {
@@ -106,7 +106,7 @@ aside img {
   border-radius: 3%;
   display: block;
   margin: 0 auto 30px auto;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Mantener el sombreado para la imagen */
+  border: 4px solid #353536;
 }
 
 aside h2 {
@@ -136,16 +136,17 @@ aside h2 {
 }
 
 .biomedical-engineer a {
-  color: #333;
+  color: #fafafa;
   text-decoration: none;
   padding: 4px 6px;
   border-radius: 5px;
+  background: #353536;
   transition: background 0.3s ease, color 0.3s ease, transform 0.3s ease;
+  
 }
 
 .biomedical-engineer a:hover {
-  background: #007bff;
-  color: #fff;
+  color: #FDCA65;
   transform: scale(1.05);
 }
 
@@ -162,16 +163,17 @@ aside h2 {
   margin-left: 0px;
   margin-bottom: 0px;
   box-shadow: none; /* Eliminar el sombreado */
+  border: 0px;
 }
 
 .social-links a {
-  color: #333; /* Color negro por defecto */
+  color: #fafafa;
   text-decoration: none; /* Sin subrayado */
   transition: color 0.3s ease; /* Transición de color */
 }
 
 .social-links a:hover {
-  color: #007bff; /* Cambiar a azul al pasar el ratón */
+  color: #FDCA65; /* Cambiar a azul al pasar el ratón */
 }
 
 a {
@@ -190,9 +192,10 @@ a:hover {
   text-align: left;
   padding: 5px 20px 5px 20px;
   border-radius: 10px;
-  background: #fff;
+  background: #1e1e1f;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   width: 240px;
+  border: 1px solid #383838;
 }
 
 .research-interests-container h2 {
@@ -204,7 +207,7 @@ a:hover {
   display: block;
   width: 50px;
   height: 3px;
-  background: #007bff;
+  background: #fdca65;
 }
 
 .research-interests-container ul {
@@ -213,14 +216,10 @@ a:hover {
 }
 
 .research-interests-container ul li {
-  background: #fff;
+  background: #353536;
   padding: 1px 1px 1px 10px;
   margin-bottom: 4px;
   border-radius: 5px;
-}
-
-.research-interests-container ul li:hover {
-  background: #ced4da;
 }
 
 .home-columns {

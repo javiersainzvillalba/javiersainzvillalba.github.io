@@ -423,15 +423,15 @@ footer {
 
 /* Añadir al final de tu style.css */
 .page-title {
-  background-color: #007bff;
-  color: white;
+  background-color: #1E1E1F;
+  color: #FDCA65;
   padding: 3px 20px;
   border-radius: 0px 0px 10px 10px;
   position: absolute;
   right: 18px;
   top: 0px;
   font-size: 1.5em;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border: 1px solid #383838;
 }
 
 /* Media queries para diferentes tamaños de pantalla */

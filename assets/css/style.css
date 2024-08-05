@@ -30,7 +30,7 @@ header h1 {
 }
 
 header h1 a {
-  color: #333;
+  color: #FAFAFA;
   text-decoration: none;
   transition: color 0.3s ease;
 }
@@ -55,7 +55,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-  color: #F7FAFA;
+  color: #FAFAFA;
   text-decoration: none;
   padding: 7px 20px 7px 20px;
   border-radius: 5px;

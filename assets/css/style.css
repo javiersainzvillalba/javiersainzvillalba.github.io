@@ -185,6 +185,52 @@ a:hover {
 }
 
 /* Estilos para la página de inicio */
+
+.home-columns {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.left-column {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.right-columns {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+}
+
+.projects-column, .publications-column {
+  background: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.projects-column ul, .publications-column ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.projects-column ul li, .publications-column ul li {
+  background: #e9ecef;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.projects-column ul li strong, .publications-column ul li strong {
+  color: #007bff;
+}
+
+.projects-column ul li:hover, .publications-column ul li:hover {
+  background: #ced4da;
+}
+
 .home-intro, .home-section {
   padding: 1px 10px;
   margin-bottom: 20px;

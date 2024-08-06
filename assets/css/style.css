@@ -68,6 +68,16 @@ header nav ul li a:hover {
   transform: scale(1.05);
 }
 
+ c::before {
+  content: '';
+  display: inline-block;
+  width: 10px; /* Ancho del cuadrado */
+  height: 10px; /* Alto del cuadrado */
+  background-color: #fdca65; /* Color del cuadrado */
+  margin-right: 10px; /* Espacio entre el cuadrado y el texto */
+  border-radius: 2px; /* Opcional: para redondear los bordes del cuadrado */
+}
+
 .content {
   display: flex;
   margin: 15px;

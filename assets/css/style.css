@@ -222,6 +222,19 @@ a:hover {
   border-radius: 5px;
   color: #fdca65;
 }
+.research-interests-container ul li::before {
+  content: '';
+  display: inline-block;
+  width: 10px; /* Ancho del cuadrado */
+  height: 10px; /* Alto del cuadrado */
+  background-color: #fff; /* Color del cuadrado */
+  margin-right: 10px; /* Espacio entre el cuadrado y el texto */
+  border-radius: 2px; /* Opcional: para redondear los bordes del cuadrado */
+  position: absolute;
+  left: -20px; /* Ajustar según la posición deseada */
+  top: 50%; /* Centrar verticalmente */
+  transform: translateY(-50%); /* Centrar verticalmente */
+}
 
 .home-columns {
   display: flex;

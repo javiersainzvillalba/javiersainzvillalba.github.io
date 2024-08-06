@@ -10,17 +10,22 @@
 
 <body>
   <header>
-    <h1><a href="{{ site.baseurl | prepend: site.url }}"><strong>{{ site.title }}</strong></a></h1>
-    <nav>
-      <ul>
-        {% for page in site.pages %}
-          {% if page.nav %}
-            <li><a href="{{ page.url | relative_url }}"><strong>{{ page.title }}</strong></a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </nav>
-    <!-- Contenedor para el nombre de la página actual -->
+    <div class="header-container">
+      <div class="header-title">
+        <h1><a href="{{ site.baseurl | prepend: site.url }}"><strong>{{ site.title }}</strong></a></h1>
+      </div>
+      <div class="header-nav">
+        <nav>
+          <ul>
+            {% for page in site.pages %}
+              {% if page.nav %}
+                <li><a href="{{ page.url | relative_url }}"><strong>{{ page.title }}</strong></a></li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </nav>
+      </div>
+    </div>
     <div id="page-title" class="page-title">
       <strong>{{ page.title }}</strong>
     </div>
@@ -46,7 +51,6 @@
   </footer>
 </body>
 </html>
-
 
 
 

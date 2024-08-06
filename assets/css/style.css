@@ -24,6 +24,10 @@ body {
   border: 1px solid #383838;
 }
 
+.header-title {
+  margin: 0;
+}
+
 .header-title h1 {
   margin: 0;
   font-size: 2em;

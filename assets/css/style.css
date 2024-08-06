@@ -220,6 +220,7 @@ a:hover {
   padding: 1px 1px 1px 10px;
   margin-bottom: 4px;
   border-radius: 5px;
+  color: #fdca65;
 }
 
 .home-columns {
@@ -378,16 +379,18 @@ main {
 }
 
 footer {
-  background: #fff;
-  color: #333;
+  background: #1e1e1f;
+  color: #fdca65;
   text-align: center;
-  padding: 0.5em 0;
   font-size: 0.8em;
   box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
   position: sticky;
   bottom: 0;
-  width: 100%;
-  padding: 0px; 
+  width: 15%;
+  padding: 0px 0px 0px 0px;
+  align-self: center;
+  border-radius: 10px 10px 0px 0px;
+  border: 1px solid #383838;
 }
 
 /* Añadir al final de tu style.css */

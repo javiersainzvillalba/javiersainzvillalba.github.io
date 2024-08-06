@@ -78,9 +78,8 @@ header nav ul li a:hover {
 main.scrollable-content {
   flex: 1;
   padding: 0px;
-  background: #f4f4f4;
+  background: #121212;
   border-radius: 10px;
-  overflow-y: auto; /* Habilita el desplazamiento vertical */
   margin-top: 2px;
   margin-bottom: 10px;
   overflow-y: auto; /* Habilita el desplazamiento vertical */
@@ -174,12 +173,8 @@ aside h2 {
 }
 
 a {
-  color: #007bff;
+  color: #fdca65;
   text-decoration: none;
-}
-
-a:hover {
-  color: #0056b3;
 }
 
 /* Estilos para la página de inicio */
@@ -244,6 +239,7 @@ a:hover {
   flex: 2;
   display: flex;
   flex-direction: column;
+  background: #121212;
 }
 
 .projects-column {
@@ -282,11 +278,11 @@ a:hover {
 
 .home-intro {
   padding: 1px 10px;
-  margin-bottom: 20px;
-  background: #fff;
+  background: #1e1e1f;
   border-radius: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   margin: 3px 3px 5px 3px;
+  border: 1px solid #383838;
 }
 .home-section {
   background: #f4f4f4;

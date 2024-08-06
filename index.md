@@ -21,17 +21,18 @@ nav: false
       <ul>
         <li><strong>Project 1:</strong> Simulation of the 2009 Da Vinci Robot (I used Fusion360, CoppeliaSim and Python).</li>
         <li><strong>Project 2:</strong> Medical image segmentation with algoritm (I used an algorithm based on random walker).</li>
-        <li><strong>Project 3:</strong> Description of Project C, what you did, and its impact.</li>
+        <li><strong>Project 3:</strong> A network clock (I used logic gates, frecuency dividers, encoders, and more).</li>
       </ul>
       <p>You can check some of the projects I have done <a href="https://javiersainzvillalba.github.io/projects/">here</a>.</p>
     </div>
 
    <div class="publications-column">
       <h2>Publications</h2>
-      <p>I have published several papers in reputed journals. Here are a few:</p>
+      <p>I have participated in the following publications: </p>
       <ul>
         <li><strong>Publication 1:</strong> Integration of CoppeliaSim for the Da Vinci robot - XIII Young researchers of I3A - 2024</li>
       </ul>
+      <p>You can check some of the publictions I have done <a href="https://javiersainzvillalba.github.io/projects/">here</a>.</p>
     </div>
   </div>
 </div>

@@ -136,7 +136,7 @@ aside h2 {
 }
 
 .biomedical-engineer a {
-  color: #fafafa;
+  color: #fdca65;
   text-decoration: none;
   padding: 4px 6px;
   border-radius: 5px;
@@ -146,7 +146,7 @@ aside h2 {
 }
 
 .biomedical-engineer a:hover {
-  color: #FDCA65;
+  color: #fafafa;
   transform: scale(1.05);
 }
 
@@ -399,7 +399,7 @@ footer {
 }
 
 .qr-container {
-  margin-top: -149px;
+  margin-top: -152px;
   text-align: center;
   padding: 10px 10px 5px 10px;
   border-radius: 10px;
@@ -410,6 +410,8 @@ footer {
 .qr-code {
   max-width: 100%;
   height: 138px;
+  border: 1px solid #383838;
+  border-radius: 10px;
 }
 
 .about-me {

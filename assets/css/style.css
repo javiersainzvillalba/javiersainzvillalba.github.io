@@ -180,7 +180,7 @@ a {
 /* Estilos para la página de inicio */
 /* Añadir a style.css */
 .research-interests-container {
-  margin-top: 5px;
+  margin-top: 10px;
   text-align: left;
   padding: 5px 20px 5px 20px;
   border-radius: 10px;
@@ -209,7 +209,6 @@ a {
 }
 
 .research-interests-container ul li {
-  background: #353536;
   padding: 1px 1px 1px 10px;
   margin-bottom: 4px;
   border-radius: 5px;

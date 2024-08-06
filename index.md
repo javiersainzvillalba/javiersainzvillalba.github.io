@@ -28,11 +28,10 @@ nav: false
 
    <div class="publications-column">
       <h2>Publications</h2>
-      <p>I have participated in the following publications: </p>
       <ul>
         <li><strong>Publication 1:</strong> Integration of CoppeliaSim for the Da Vinci robot - XIII Young researchers of I3A - 2024</li>
       </ul>
-      <p>You can check some of the publictions I have done <a href="https://javiersainzvillalba.github.io/projects/">here</a>.</p>
+      <p>You can check some of the publications I have done <a href="https://javiersainzvillalba.github.io/projects/">here</a>.</p>
     </div>
   </div>
 </div>

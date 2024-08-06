@@ -145,11 +145,6 @@ aside h2 {
   
 }
 
-.biomedical-engineer a:hover {
-  color: #fafafa;
-  transform: scale(1.05);
-}
-
 .social-links p {
   display: flex;
   align-items: center;

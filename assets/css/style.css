@@ -200,6 +200,7 @@ a {
   width: 50px;
   height: 3px;
   background: #fdca65;
+  border-radius: 10px;
 }
 
 .research-interests-container ul {
@@ -243,17 +244,17 @@ a {
 }
 
 .projects-column {
-  background: #fff;
+  background: #1e1e1f;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border: 1px solid #383838;
 }
 .publications-column {
-  background: #fff;
+  background: #1e1e1f;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   margin-top: 15px;
+  border: 1px solid #383838;
 }
 
 .projects-column ul, .publications-column ul {
@@ -262,14 +263,14 @@ a {
 }
 
 .projects-column ul li, .publications-column ul li {
-  background: #e9ecef;
+  background: #353536;
   padding: 10px;
   margin-bottom: 10px;
   border-radius: 5px;
 }
 
 .projects-column ul li strong, .publications-column ul li strong {
-  color: #007bff;
+  color: #fdca65;
 }
 
 .projects-column ul li:hover, .publications-column ul li:hover {
@@ -277,10 +278,9 @@ a {
 }
 
 .home-intro {
-  padding: 1px 10px;
+  padding: 15px;
   background: #1e1e1f;
   border-radius: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   margin: 3px 3px 5px 3px;
   border: 1px solid #383838;
 }
@@ -304,7 +304,7 @@ a {
   margin-bottom: 10px;
   margin-top: 0px;
   font-size: 1.5em;
-  color: #333;
+  color: #fafafa;
 }
 
 .home-section h2::after {
@@ -312,7 +312,8 @@ a {
   display: block;
   width: 50px;
   height: 3px;
-  background: #007bff;
+  background: #fdca65;
+  border-radius: 10px;
 }
 
 /* Diseño de cuadrícula para Projects y Research/Publications */
@@ -422,9 +423,9 @@ footer {
 .about-me {
   margin-top: 15px;
   padding: 20px;
-  background: #fff;
+  background: #1e1e1f;
   border-radius: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border: 1px solid #383838;
 }
 
 /* Añadir al final de tu style.css */

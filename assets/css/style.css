@@ -98,8 +98,8 @@ main.scrollable-content {
 aside {
   background: #1E1E1F;
   padding: 15px 15px 10px 15px;
-  width: 250px;
-  height: 550px; /* Ocupa toda la altura de la ventana */
+  width: 280px;
+  height: 605px; /* Ocupa toda la altura de la ventana */
   border-radius: 10px;
   flex-shrink: 0;
   margin-top: 5px;
@@ -108,6 +108,7 @@ aside {
   top: 0;
   overflow-y: auto; /* Habilita el desplazamiento vertical */
   border: 1px solid #383838;
+  font-size: 18px;
 }
 
 aside img {
@@ -115,7 +116,6 @@ aside img {
   border-radius: 3%;
   display: block;
   margin: 0 auto 30px auto;
-  border: 4px solid #353536;
 }
 
 aside h2 {
@@ -414,11 +414,11 @@ footer {
 }
 
 .qr-container {
-  margin-top: -159px;
+  margin-top: -165px;
   text-align: center;
   padding: 10px 10px 5px 10px;
   border-radius: 10px;
-  margin-left: 151px;
+  margin-left: 175px;
   z-index: 10;
 }
 

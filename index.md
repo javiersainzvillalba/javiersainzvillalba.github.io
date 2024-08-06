@@ -19,9 +19,9 @@ nav: false
     <div class="projects-column">
       <h2>Projects</h2>
       <ul>
-        <li><strong>Project A:</strong> Description of Project A, what you did, and its impact.</li>
-        <li><strong>Project B:</strong> Description of Project B, what you did, and its impact.</li>
-        <li><strong>Project C:</strong> Description of Project C, what you did, and its impact.</li>
+        <li><strong>Project 1:</strong> Simulation of the 2009 Da Vinci Robot (I used Fusion360, CoppeliaSim and Python).</li>
+        <li><strong>Project 2:</strong> Medical image segmentation with algoritm (I used an algorithm based on random walker).</li>
+        <li><strong>Project 3:</strong> Description of Project C, what you did, and its impact.</li>
       </ul>
       <p>You can check some of the projects I have done <a href="https://javiersainzvillalba.github.io/projects/">here</a>.</p>
     </div>
@@ -30,9 +30,7 @@ nav: false
       <h2>Publications</h2>
       <p>I have published several papers in reputed journals. Here are a few:</p>
       <ul>
-        <li><strong>Project 1:</strong> Title - Journal Name - Year</li>
-        <li><strong>Project 2:</strong> Title - Journal Name - Year</li>
-        <li><strong>Project 3:</strong> Title - Journal Name - Year</li>
+        <li><strong>Publication 1:</strong> Integration of CoppeliaSim for the Da Vinci robot - XIII Young researchers of I3A - 2024</li>
       </ul>
     </div>
   </div>

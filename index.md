@@ -18,7 +18,7 @@ nav: false
         <li><strong>Last Project:</strong> Simulation of the 2009 Da Vinci Robot (I used Fusion360, CoppeliaSim and Python).</li>
         <li><strong>Last Publication:</strong> Integration of CoppeliaSim for the Da Vinci robot - XIII Young researchers of I3A - 2024.</li>
       </ul>
-      <p>You can check all my Projects <a href="https://javiersainzvillalba.github.io/projects/">here</a> or you can check all my Publications <a href="https://javiersainzvillalba.github.io/projects/">here</a>.</p>
+      <p>You can check all my <a href="https://javiersainzvillalba.github.io/projects/">Projects</a> or all my <a href="https://javiersainzvillalba.github.io/projects/">Publications</a>.</p>
     </div>
   </div>
 </div>

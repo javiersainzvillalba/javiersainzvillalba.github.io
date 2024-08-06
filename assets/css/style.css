@@ -143,6 +143,10 @@ aside h2 {
   background: #353536;
 }
 
+.biomedical-engineer a:hover {
+  color: #fdca65;
+}
+
 .social-links p {
   display: flex;
   align-items: center;

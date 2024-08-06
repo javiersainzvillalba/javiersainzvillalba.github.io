@@ -5,7 +5,7 @@ nav: false
 ---
 
 <div class="home-intro">
-  <p><strong>Hello,</strong></p>
+  <p><a><strong>Hello,</strong></a></p>
   <p>Welcome to my personal webpage. I am a biomedical engineer searching for a Phd program having finished my Master's degree in the same field at the University of Zaragoza (Spain). I did my final proyect about the Da Vinci Robot. I used different programs to make it happen. I did sucessfully design the robot and also programand its movement. I am passionate about tissue engineering, medical robots, organoids, prosthesis and implant design, and rehabilitation applications. I am hard working and i keep persevearing in a task till i get it done.</p>
 </div>
 

@@ -420,11 +420,11 @@ footer {
 }
 
 .about-me {
-  margin-top: 15px;
   padding: 20px;
   background: #1e1e1f;
   border-radius: 10px;
   border: 1px solid #383838;
+  font-size: 18px;
 }
 
 /* Añadir al final de tu style.css */

@@ -6,19 +6,19 @@ nav: false
 
 <div class="home-section about-me">
   <h2>About Me</h2>
-  <p>I have a Bachelor's degree in Biomedical Engineering from the European University of Madrid and a Master's degree from the same field from University of Zaragoza. My research interests include scaffolds, tissue-implant interface, prosthesis, and many more. I have a strong background in both theoretical knowledge and practical applications in biomedical engineering. My background has expanded even more thanks to my Master's degree that has given me autonomy in looking for solutions to medical robotic problems.</p>
+  <p>Welcome to my personal webpage. I am a biomedical engineer with a Bachelor's degree from the European University of Madrid and a Master's degree from the University of Zaragoza (Spain), where I completed my Master's thesis about the Da Vinci Robot. My successful design and programming of the robot's movements involved using various programs. I am now seeking a PhD program to further my research interests, which include tissue engineering, medical robots, organoids, prosthesis and implant design, rehabilitation applications, scaffolds, and tissue-implant interfaces. I have a strong background in both theoretical knowledge and practical applications, and my Master's degree has enhanced my ability to autonomously find solutions to medical robotic problems. I am passionate, hardworking, and persistent in completing tasks.</p>
 </div>
 
 <div class="home-section">
   <div class="right-columns">
     <div class="projects-column">
-      <h2>Projects</h2>
+      <h2>General Information</h2>
       <ul>
-        <li><strong>Project 1:</strong> Simulation of the 2009 Da Vinci Robot (I used Fusion360, CoppeliaSim and Python).</li>
-        <li><strong>Project 2:</strong> Medical image segmentation with algoritm (I used an algorithm based on random walker).</li>
-        <li><strong>Project 3:</strong> A network clock (I used logic gates, frecuency dividers, encoders, and more).</li>
+        <li><strong>Curriculum:</strong> You can check my curriculum vitae here.</li>
+        <li><strong>Last Project:</strong> Simulation of the 2009 Da Vinci Robot (I used Fusion360, CoppeliaSim and Python).</li>
+        <li><strong>Last Publication:</strong> Integration of CoppeliaSim for the Da Vinci robot - XIII Young researchers of I3A - 2024.</li>
       </ul>
-      <p>You can check some of the projects I have done <a href="https://javiersainzvillalba.github.io/projects/">here</a>.</p>
+      <p>You can check all my Projects <a href="https://javiersainzvillalba.github.io/projects/">here</a> or you can check all my Publications <a href="https://javiersainzvillalba.github.io/projects/">here</a>.</p>
     </div>
   </div>
 </div>

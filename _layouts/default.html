@@ -11,7 +11,10 @@
 <body>
   <header>
     <h1><a href="{{ site.baseurl | prepend: site.url }}"><strong>{{ site.title }}</strong></a></h1>
-    <nav>
+    
+    <!-- Contenedor para el nombre de la página actual -->
+    <div id="page-title" class="page-title">
+      <nav>
       <ul>
         {% for page in site.pages %}
           {% if page.nav %}
@@ -20,9 +23,6 @@
         {% endfor %}
       </ul>
     </nav>
-    <!-- Contenedor para el nombre de la página actual -->
-    <div id="page-title" class="page-title">
-      <strong>{{ page.title }}</strong>
     </div>
   </header>
   <div class="content">

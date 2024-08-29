@@ -35,6 +35,7 @@ header h1 a {
   color: #FDCA65;
   text-decoration: none;
   transition: color 0.3s ease;
+  font-family: 'Lobster', cursive;
 }
 
 header h1 a:hover {

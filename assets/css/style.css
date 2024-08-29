@@ -17,7 +17,7 @@ header {
   background: #1E1E1F;
   padding: 3px 12px;
   width: 288px;
-  border-radius: 0px 0px 10px 10px;
+  border-radius: 10px;
   height: 40px;
   border: 1px solid #383838;
   margin-left: 15px;
@@ -85,6 +85,7 @@ header nav ul li a:hover {
   margin: 10px 15px 15px 15px;
   flex: 1;
   overflow: hidden; /* Oculta el desbordamiento en el contenedor principal */
+  padding: 0px 0px 5px 0px;
 }
 
 main.scrollable-content {
@@ -399,13 +400,11 @@ footer {
   text-align: center;
   font-size: 0.8em;
   box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
-  position: sticky;
-  bottom: 0;
-  width: 15%;
+  width: 310px;
   padding: 0px 0px 0px 0px;
-  align-self: center;
-  border-radius: 10px 10px 0px 0px;
+  border-radius: 10px;
   border: 1px solid #383838;
+  margin-left: 15px;
 }
 
 /* Añadir al final de tu style.css */
@@ -445,7 +444,7 @@ footer {
   background-color: #1E1E1F;
   color: #FDCA65;
   padding: 3px 0px;
-  border-radius: 0px 0px 10px 10px;
+  border-radius: 10px;
   position: absolute;
   right: 17px;
   font-size: 1.5em;

@@ -3,6 +3,7 @@ layout: default
 title: "Resume"
 permalink: /resume/
 nav: true
+order: 1
 ---
 
 ## About Me

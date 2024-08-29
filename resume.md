@@ -11,7 +11,7 @@ order: 1
   <p><c>Master's degree in Biomedical Engineering</c> ------------ 2022|2024
   </p>
   <p>University of Zaragoza, Zaragoza-Spain</p>
-  <p> </p>
+  <p> ------------ </p>
   <p>Engineer's degree (4 years) in Biomedical Engineering ------------ 2018|2022
   </p>
   <p>European University of Madrid, Madrid-Spain</p>

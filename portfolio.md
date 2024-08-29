@@ -3,6 +3,7 @@ layout: default
 title: "Portfolio"
 permalink: /portfolio/
 nav: true
+order: 2
 ---
 
 ## Portfolio

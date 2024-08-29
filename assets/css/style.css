@@ -6,8 +6,6 @@ body {
   background: #121212;
   min-height: 100vh;
   height: 100vh; /* Ocupa toda la altura de la ventana */
-  display: table-cell;
-  vertical-align: middle;
 }
 
 header {

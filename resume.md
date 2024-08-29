@@ -10,6 +10,23 @@ order: 1
   <p>Master's degree in Biomedical Engineering ------------ 2022|2024
   </p>
   <p>University of Zaragoza, Zaragoza-Spain</p>
+  <p> </p>
+  <p>Engineer's degree (4 years) in Biomedical Engineering ------------ 2018|2022
+  </p>
+  <p>European University of Madrid, Madrid-Spain</p>
+  <p> </p>
+  <p>Certificate of Higher Education in 3D Animation and Virtual Environments ------------ 2016|2018
+  </p>
+  <p>European University of Madrid, Madrid-Spain</p>
+  <p> </p>
+  <p>Education certificate in Music, Double Bass speciality ------------ 2002|2015
+  </p>
+  <p>Profesional Music School of Majadahonda, Madrid-Spain</p>
+  <p> </p>
+  <p>General Certificate of Education (Baccalaureate) ------------ 2014
+  </p>
+  <p>High School José Saramago, Madrid-Spain</p>
+  <p> </p>
 </div>
 
 <div class="home-section about-me">

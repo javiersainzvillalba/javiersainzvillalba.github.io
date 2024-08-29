@@ -46,15 +46,15 @@ order: 1
   <h2>Skills</h2>
   <p><c>3D design:</c> Solidworks (certified), Autodesk Fusion 360</p>
   <p><c>3D modelling:</c> Maya, Blender</p>
-  <p>Image Analysis: Matlab, Python</p>
-  <p>Numerical simulation and mechanical testing: Abaqus, CoppeliaSimw</p>
-  <p>Electrical circuit simulation and testing: Proteus, Multisim</p>
-  <p>Graphic Design: Photoshop, Autodesk Sketchbook</p>
+  <p><c>Image Analysis:</c> Matlab, Python</p>
+  <p><c>Numerical simulation and mechanical testing:</c> Abaqus, CoppeliaSimw</p>
+  <p><c>Electrical circuit simulation and testing:</c> Proteus, Multisim</p>
+  <p><c>Graphic Design:</c> Photoshop, Autodesk Sketchbook</p>
 </div>
 <div class="home-section about-me">
   <h2>Research Interests</h2>
-  <p>Tissue engineering and material analysis: scaffolds, organoids, tissue-implant interface</p>
-  <p>Design of prosthesis, ortheis, implants and surgical robots</p>
-  <p>Design and development of rehabilitation aids</p>
-  <p>Development of virtual environments for rehabilitation and educational purposes</p>
+  <p><c>Tissue engineering and material analysis:</c> scaffolds, organoids, tissue-implant interface</p>
+  <p><c>Design of prosthesis, ortheis, implants and surgical robots</c></p>
+  <p><c>Design and development of rehabilitation aids</c></p>
+  <p><c>Development of virtual environments for rehabilitation and educational purposes</c></p>
 </div>

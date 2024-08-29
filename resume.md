@@ -37,15 +37,15 @@ order: 1
 </div>
 <div class="home-section about-me">
   <h2>Programming</h2>
-  <p>Python - Advanced</p>
-  <p>C# - Advanced</p>
-  <p>Java - Proficient</p>
-  <p>Matlab - Intermediate</p>
+  <p><c>Python</c> - Advanced</p>
+  <p><c>C#</c> - Advanced</p>
+  <p><c>Java</c> - Proficient</p>
+  <p><c>Matlab</c> - Intermediate</p>
 </div>
 <div class="home-section about-me">
   <h2>Skills</h2>
-  <p>3D design: Solidworks (certified), Autodesk Fusion 360</p>
-  <p>3D modelling: Maya, Blender</p>
+  <p><c>3D design:</c> Solidworks (certified), Autodesk Fusion 360</p>
+  <p><c>3D modelling:</c> Maya, Blender</p>
   <p>Image Analysis: Matlab, Python</p>
   <p>Numerical simulation and mechanical testing: Abaqus, CoppeliaSimw</p>
   <p>Electrical circuit simulation and testing: Proteus, Multisim</p>

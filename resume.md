@@ -8,7 +8,7 @@ order: 1
 
 <div class="home-section about-me">
   <h2>Education</h2>
-  <p>Master's degree in Biomedical Engineering ------------ 2022|2024
+  <p><c>Master's degree in Biomedical Engineering</c> ------------ 2022|2024
   </p>
   <p>University of Zaragoza, Zaragoza-Spain</p>
   <p> </p>

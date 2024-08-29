@@ -32,7 +32,7 @@ order: 1
 
 <div class="home-section about-me">
   <h2>Languages</h2>
-  <p><c>Spanish</c> - Native<</p>
+  <p><c>Spanish</c> - Native</p>
   <p><c>English</c> - Proficient C1 TOEFL IBT</p>
 </div>
 <div class="home-section about-me">

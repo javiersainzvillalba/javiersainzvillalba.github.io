@@ -16,11 +16,13 @@ header {
   display: flex;
   align-items: center;
   background: #1E1E1F;
-  padding: 0.5em 1.2em;
-  width: 950px;
-  border-radius: 0px 0px 10px 0px;
+  padding: 3px 12px;
+  width: 288px;
+  border-radius: 0px 0px 10px 10px;
   height: 40px;
   border: 1px solid #383838;
+  margin-left: 15px;
+}
 }
 
 header h1 {

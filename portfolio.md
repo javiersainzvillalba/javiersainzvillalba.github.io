@@ -2,7 +2,7 @@
 layout: default
 title: "Portfolio"
 permalink: /portfolio/
-nav: true
+nav: false
 order: 2
 ---
 

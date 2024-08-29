@@ -3,6 +3,7 @@ layout: default
 title: "Publications"
 permalink: /publications/
 nav: true
+order: 4
 ---
 
 <div class="home-intro">

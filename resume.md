@@ -31,17 +31,29 @@ order: 1
 
 <div class="home-section about-me">
   <h2>Languages</h2>
-  <p>I have a Bachelor's degree in Biomedical Engineering from the European University of Madrid and a Master's degree from the same field from University of Zaragoza. My research interests include scaffolds, tissue-implant interface, prosthesis, and many more. I have a strong background in both theoretical knowledge and practical applications in biomedical engineering. My background has expanded even more thanks to my Master's degree that has given me autonomy in looking for solutions to medical robotic problems.</p>
+  <p>Spanish - Native</p>
+  <p>English - Proficient C1 TOEFL IBT</p>
 </div>
 <div class="home-section about-me">
   <h2>Programming</h2>
-  <p>I have a Bachelor's degree in Biomedical Engineering from the European University of Madrid and a Master's degree from the same field from University of Zaragoza. My research interests include scaffolds, tissue-implant interface, prosthesis, and many more. I have a strong background in both theoretical knowledge and practical applications in biomedical engineering. My background has expanded even more thanks to my Master's degree that has given me autonomy in looking for solutions to medical robotic problems.</p>
+  <p>Python - Advanced</p>
+  <p>C# - Advanced</p>
+  <p>Java - Proficient</p>
+  <p>Matlab - Intermediate</p>
 </div>
 <div class="home-section about-me">
   <h2>Skills</h2>
-  <p>I have a Bachelor's degree in Biomedical Engineering from the European University of Madrid and a Master's degree from the same field from University of Zaragoza. My research interests include scaffolds, tissue-implant interface, prosthesis, and many more. I have a strong background in both theoretical knowledge and practical applications in biomedical engineering. My background has expanded even more thanks to my Master's degree that has given me autonomy in looking for solutions to medical robotic problems.</p>
+  <p>3D design: Solidworks (certified), Autodesk Fusion 360</p>
+  <p>3D modelling: Maya, Blender</p>
+  <p>Image Analysis: Matlab, Python</p>
+  <p>Numerical simulation and mechanical testing: Abaqus, CoppeliaSimw</p>
+  <p>Electrical circuit simulation and testing: Proteus, Multisim</p>
+  <p>Graphic Design: Photoshop, Autodesk Sketchbook</p>
 </div>
 <div class="home-section about-me">
   <h2>Research Interests</h2>
-  <p>I have a Bachelor's degree in Biomedical Engineering from the European University of Madrid and a Master's degree from the same field from University of Zaragoza. My research interests include scaffolds, tissue-implant interface, prosthesis, and many more. I have a strong background in both theoretical knowledge and practical applications in biomedical engineering. My background has expanded even more thanks to my Master's degree that has given me autonomy in looking for solutions to medical robotic problems.</p>
+  <p>Tissue engineering and material analysis: scaffolds, organoids, tissue-implant interface</p>
+  <p>Design of prosthesis, ortheis, implants and surgical robots</p>
+  <p>Design and development of rehabilitation aids</p>
+  <p>Development of virtual environments for rehabilitation and educational purposes</p>
 </div>

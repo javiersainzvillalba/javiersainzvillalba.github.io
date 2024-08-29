@@ -82,7 +82,7 @@ header nav ul li a:hover {
 
 .content {
   display: flex;
-  margin: 15px;
+  margin: 10px 15px 15px 15px;
   flex: 1;
   overflow: hidden; /* Oculta el desbordamiento en el contenedor principal */
 }

@@ -5,6 +5,7 @@ permalink: /resume/
 nav: true
 order: 1
 ---
+
 <div class="home-section about-me">
   <h2>Education</h2>
   <p>Master's degree in Biomedical Engineering ------------ 2022|2024

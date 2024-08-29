@@ -16,7 +16,7 @@
     <div id="page-title" class="page-title">
       <nav>
       <ul>
-        {% for page in site.pages | sort:"order" %}
+        {% for page in site.pages %}
           {% if page.nav %}
               <li><a href="{{ page.url | relative_url }}"><strong>{{ page.title }}</strong></a></li>
           {% endif %}

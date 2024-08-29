@@ -5,10 +5,9 @@ baseurl: "" # se debe dejar vacío para GitHub Pages
 url: "https://javiersainzvillalba.github.io/" # URL de tu repositorio
 header_pages:
   - resume.md
-  - publications.md
-  - talks.md
-  - teaching.md
   - portfolio.md
-  - blog.md
+  - proyects.md
+  - publications.md
+  - curriculum.md
 
 

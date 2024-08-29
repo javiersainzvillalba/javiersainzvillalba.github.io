@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Teaching"
-permalink: /teaching/
+title: "Curriculum"
+permalink: /curriculum/
 nav: true
+order: 5
 ---
 
 ## Teaching

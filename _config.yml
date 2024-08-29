@@ -6,7 +6,7 @@ url: "https://javiersainzvillalba.github.io/" # URL de tu repositorio
 header_pages:
   - resume.md
   - portfolio.md
-  - proyects.md
+  - projects.md
   - publications.md
   - curriculum.md
 

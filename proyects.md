@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Talks"
-permalink: /talks/
+title: "Proyects"
+permalink: /proyects/
 nav: true
+order: 3
 ---
 
 ## Talks

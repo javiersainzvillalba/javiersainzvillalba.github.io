@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Proyects"
-permalink: /proyects/
+title: "Projects"
+permalink: /projects/
 nav: true
 order: 3
 ---

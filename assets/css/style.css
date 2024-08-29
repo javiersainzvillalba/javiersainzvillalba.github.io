@@ -455,7 +455,7 @@ footer {
 }
 
 /* Media queries para diferentes tamaños de pantalla */
-@media (max-width: 1024px) {
+/* @media (max-width: 1024px) {
   header {
     flex-direction: column;
     align-items: flex-start;
@@ -464,7 +464,7 @@ footer {
   header nav {
     margin-left: 0;
     margin-top: 10px;
-  }
+  } */
 
   
  

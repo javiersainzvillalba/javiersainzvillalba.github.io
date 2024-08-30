@@ -6,7 +6,7 @@ nav: true
 order: 3
 ---
 
-<div class="home-section">
+<div class="home-intro">
   <div class="right-columns">
    <div class="projects-column">
       <ul>

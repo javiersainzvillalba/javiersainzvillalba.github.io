@@ -7,7 +7,7 @@ order: 5
 ---
 
 <!-- Visualizar el PDF -->
-<embed src="ruta-al-archivo.pdf" type="application/pdf" width="600" height="400">
+<embed src="assets/files/cv.pdf" type="application/pdf" width="600" height="400">
 <!-- O usar un iframe -->
 <!-- <iframe src="ruta-al-archivo.pdf" width="600" height="400"></iframe> -->
 <!-- Enlace para descargar el PDF -->

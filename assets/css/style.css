@@ -302,8 +302,13 @@ a {
   height: 100%;
 }
 
-.home-intro p, .home-section p {
+.home-intro p {
   margin: 0 0 10px;
+}
+
+.home-section p {
+  margin: 0 0 10px;
+  height: 80%;
 }
 
 .home-intro p strong {

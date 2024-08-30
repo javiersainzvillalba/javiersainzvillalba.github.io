@@ -6,15 +6,9 @@ nav: true
 order: 5
 ---
 
-## Teaching
-
-### Courses
-
-- **Course Title** - Description of the course, topics covered, and any other relevant details.
-- **Another Course** - Description of the course, topics covered, and any other relevant details.
-
-### Workshops
-
-- **Workshop Title** - Description of the workshop, topics covered, and any other relevant details.
-- **Another Workshop** - Description of the workshop, topics covered, and any other relevant details.
-- **Prueba 
+<!-- Visualizar el PDF -->
+<embed src="ruta-al-archivo.pdf" type="application/pdf" width="600" height="400">
+<!-- O usar un iframe -->
+<!-- <iframe src="ruta-al-archivo.pdf" width="600" height="400"></iframe> -->
+<!-- Enlace para descargar el PDF -->
+<p><a href="ruta-al-archivo.pdf" download="nombre-del-archivo.pdf">Descargar PDF</a></p>

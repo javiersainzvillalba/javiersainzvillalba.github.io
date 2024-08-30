@@ -8,7 +8,7 @@ order: 3
 
 <div class="home-section">
   <div class="right-columns">
-   <div class="publications-column">
+   <div class="projects-column">
       <ul>
         <li><strong>Project 1:</strong> Integration of CoppeliaSim for the Da Vinci robot - 2024</li>
       </ul>

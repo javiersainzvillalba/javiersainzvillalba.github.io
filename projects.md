@@ -37,10 +37,13 @@ order: 3
     </div>
     <div class="projects-column">
       <ul>
-        <li><strong>Project 2:</strong> Integration of CoppeliaSim for the Da Vinci robot - XIII Young researchers of I3A - 2024</li>
+        <li><strong>Project 2:</strong> Image segmentation with a random walker-based algorithm - 2022</li>
       </ul>
-      <p><object data="{{ 'assets/files/poster.pdf' | relative_url }}" height="100%" width="100%"></object></p>
+      <p>This project will address a problem that is very present in the medical and biomedical sectors. The problem studied in this final degree project (TFG) is how to segment an image into its relevant elements in an automated way to expedite data processing. Medical image segmentation is essential for diagnostic and therapeutic purposes. For diagnostic purposes, examples include the visualization of complex bone fractures, vessel segmentation for 3D visualization, and the diagnosis of vascular malformations. For therapeutic purposes, examples include bone segmentation for the surgical planning of orthopedic procedures and tissue segmentation to distinguish between tumors and adjacent structures for radiotherapy treatment. It can also have educational purposes, such as creating medical atlases. To achieve the segmentation, an algorithm based on the random walker algorithm will be applied.</p>
+      <p>Medical image processing has become a fundamental tool for diagnosis and for providing precise image-guided treatments. This work will explore this algorithm to understand its application, limitations, and to optimize its implementation. Additionally, tests will be conducted with this algorithm to evaluate its performance on real medical images.</p>
     </div>
+    <p>Below you can see one example of the many medical images processed:</p>
+    <img src="{{ '/assets/images/segmentacion.png' | relative_url }}" alt="Your Photo">
     <div class="projects-column">
       <ul>
         <li><strong>Project 3:</strong> Integration of CoppeliaSim for the Da Vinci robot - XIII Young researchers of I3A - 2024</li>

@@ -66,9 +66,13 @@ environments.</p>
     </div>
     <div class="projects-column">
       <ul>
-        <li><strong>Project 3:</strong> Integration of CoppeliaSim for the Da Vinci robot - XIII Young researchers of I3A - 2024</li>
+        <li><strong>Project 3:</strong> Judge Detective game with Unity3D - 2018</li>
       </ul>
-      <p><object data="{{ 'assets/files/poster.pdf' | relative_url }}" height="100%" width="100%"></object></p>
+      <p>Judge is a logic, strategy, and puzzle-solving game. In more advanced versions, the educational genre could also be included. Players will control the detective (Henry Bogart). The objective of the game is to find the family in the house. By interacting with objects, players can collect clues (numbers). Each object will have a comment from the detective, which may provide a hint about something the player had not considered. The numbers form a code. This code can be entered into one of the objects in the scene. Entering the code will trigger an animation. The game has a cartoon aesthetic and does not contain any textures except for the paintings. It is planned for release on PC only. The player will control the game using a mouse and keyboard.</p>
+      <video width="640" height="360" controls>
+        <source src="{{ '/assets/videos/game.mp4' | relative_url }}" type="video/mp4">
+        Tu navegador no soporta la etiqueta de video.
+      </video>
     </div>
   </div>
 </div>

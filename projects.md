@@ -23,13 +23,18 @@ order: 3
       <p>- Senhance robot: it has haptic retroalimentation so the surgeon feels the presure of the typ of the arm tool and offers the posibility of reusable tools</p>
       <p>- Hugo Ras: It has data analysis in real time.</p>
       <p>- The Da Vinci robot, the one this project is based on, is the one that is most used and known.</p>
+      <img src="{{ '/assets/images/davinci.png' | relative_url }}" alt="Your Photo">
       <p> ----</p>
       <p>The project wanted to replicate the behaviour of the Da Vinci robot (2009). For that purpouse:</p>
       <p>- The 3D model of the Da Vinci robot is developed in Fusion 360.</p>
       <p>- In this project CoppeliaSim is used as a physics simulator.</p>
       <p>- I create protype trayectories and basic scenario so all the features can be tested.</p>
       <p>- I programmed the movement and the joystick using Python and the robotics-toolbox lybrary.</p>
-      <img src="{{ '/assets/images/davinci.png' | relative_url }}" alt="Your Photo">
+      <video width="640" height="360" controls>
+        <source src="ruta/del/video.mp4" type="video/mp4">
+        <source src="ruta/del/video.webm" type="video/webm">
+        Tu navegador no soporta la etiqueta de video.
+      </video>
     </div>
     <div class="projects-column">
       <ul>

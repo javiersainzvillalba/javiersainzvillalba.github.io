@@ -29,7 +29,7 @@ order: 3
       <p>- In this project CoppeliaSim is used as a physics simulator.</p>
       <p>- I create protype trayectories and basic scenario so all the features can be tested.</p>
       <p>- I programmed the movement and the joystick using Python and the robotics-toolbox lybrary.</p>
-      
+      <img src="{{ '/assets/images/davinci.png' | relative_url }}" alt="Your Photo">
     </div>
     <div class="projects-column">
       <ul>

@@ -41,9 +41,17 @@ order: 3
       </ul>
       <p>This project will address a problem that is very present in the medical and biomedical sectors. The problem studied in this final degree project (TFG) is how to segment an image into its relevant elements in an automated way to expedite data processing. Medical image segmentation is essential for diagnostic and therapeutic purposes. For diagnostic purposes, examples include the visualization of complex bone fractures, vessel segmentation for 3D visualization, and the diagnosis of vascular malformations. For therapeutic purposes, examples include bone segmentation for the surgical planning of orthopedic procedures and tissue segmentation to distinguish between tumors and adjacent structures for radiotherapy treatment. It can also have educational purposes, such as creating medical atlases. To achieve the segmentation, an algorithm based on the random walker algorithm will be applied.</p>
       <p>Medical image processing has become a fundamental tool for diagnosis and for providing precise image-guided treatments. This work will explore this algorithm to understand its application, limitations, and to optimize its implementation. Additionally, tests will be conducted with this algorithm to evaluate its performance on real medical images.</p>
-       <p>Below you can see one example of the many medical images processed:</p>
+       <p>Below you can see some examples of the many medical images processed:</p>
     <img src="{{ '/assets/images/segmentacion.png' | relative_url }}" alt="Your Photo">
     <img src="{{ '/assets/images/segmentacion2.png' | relative_url }}" alt="Your Photo">
+    </div>
+    <div class="projects-column">
+      <ul>
+        <li><strong>Project 3:</strong> Network clock - 2021</li>
+      </ul>
+      <p>A tabletop clock will be designed to display hours, minutes, and seconds. It is called a network clock because the time base will be obtained through the frequency available from the 230V AC outlet. The clock will display the time using seven-segment displays that show the data in BCD code. A system will be implemented to set the clock. The clock is implemented in the Proteus simulation program using logic gates and flip-flops. Also dedicated integrated circuits will be used for its implementation. In this case, the dedicated circuits 4510 and 4040 will be used.</object></p>
+      <p>The final circuit designed is the one shown below</p>
+      <img src="{{ '/assets/images/reloj.png' | relative_url }}" alt="Your Photo">
     </div>
     <div class="projects-column">
       <ul>

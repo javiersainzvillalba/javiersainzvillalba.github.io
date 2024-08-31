@@ -44,6 +44,7 @@ order: 3
     </div>
     <p>Below you can see one example of the many medical images processed:</p>
     <img src="{{ '/assets/images/segmentacion.png' | relative_url }}" alt="Your Photo">
+    <img src="{{ '/assets/images/segmentacion2.png' | relative_url }}" alt="Your Photo">
     <div class="projects-column">
       <ul>
         <li><strong>Project 3:</strong> Integration of CoppeliaSim for the Da Vinci robot - XIII Young researchers of I3A - 2024</li>

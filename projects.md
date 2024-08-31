@@ -12,8 +12,19 @@ order: 3
       <ul>
         <li><strong>Project 1:</strong> Integration of CoppeliaSim for the Da Vinci robot - 2024</li>
       </ul>
-      <p>Minimally invasive surgery</p>
-      <p>Surgical robots perform surgeries that are minimally invasive surgeries. This type of surgery has the following procedure:</p>
+      <p>Minimally invasive surgery (MIS), which is more precise and less disruptive than
+traditional surgery, has drastically reduced postoperative complications by accelerating
+the recovery process. However, this more refined technique is more dependent on
+complex instruments and requires more exhaustive planning and training. Therefore,
+the creation of simulation environments is of great value. With increasingly realistic
+models, it is possible to learn to handle them in different surgical scenarios as well
+as to plan and test control algorithms at low cost and without risk to the patient or
+the maintenance of the instruments. This work presents a simulation of the Da Vinci
+robot in the CoppeliaSim simulation environment, validating the geometric model of
+the joints by testing trajectories with varying degrees of complexity. Finally, a basic
+surgical scenario is simulated as a prototype, serving as a basis for more complex
+environments.</p>
+      <p>Minimally invasive surgeries have the following procedure:</p>
       <p>- The doctors make small incisions in the abdomen of the pacient between 0.5cm to 1cm </p>
       <p>- Co2 is introduced in the abdominal cavity so the surgeons see well the area of operation.</p>
       <p>- Lastly the doctors place the arm tools and the laparoscope in the small incisions made at the beginnig of the procedure</p>

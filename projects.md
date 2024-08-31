@@ -51,7 +51,7 @@ order: 3
       </ul>
       <p>A tabletop clock will be designed to display hours, minutes, and seconds. It is called a network clock because the time base will be obtained through the frequency available from the 230V AC outlet. The clock will display the time using seven-segment displays that show the data in BCD code. A system will be implemented to set the clock. The clock is implemented in the Proteus simulation program using logic gates and flip-flops. Also dedicated integrated circuits will be used for its implementation. In this case, the dedicated circuits 4510 and 4040 will be used.</object></p>
       <p>The final circuit designed is the one shown below</p>
-      <img src="{{ '/assets/images/reloj.png' | relative_url }}" alt="Your Photo">
+      <img src="{{ '/assets/images/reloj.png' | relative_url }}" height="540px" alt="Your Photo">
     </div>
     <div class="projects-column">
       <ul>

@@ -31,7 +31,7 @@ order: 3
       <p>- I create protype trayectories and basic scenario so all the features can be tested.</p>
       <p>- I programmed the movement and the joystick using Python and the robotics-toolbox lybrary.</p>
       <video width="640" height="360" controls>
-        <source src="{{ '/assets/videos/videodavinci.mov' | relative_url }}" type="video/mov">
+        <source src="{{ '/assets/videos/videodavinci.mp4' | relative_url }}" type="video/mp4">
         Tu navegador no soporta la etiqueta de video.
       </video>
     </div>

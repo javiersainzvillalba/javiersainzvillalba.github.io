@@ -4,7 +4,7 @@ title: "Home"
 nav: false
 ---
 
-<div class="home-section about-me">
+<div class="home-section about-me2">
   <h2>About Me</h2>
   <p>Welcome to my personal webpage. I am a biomedical engineer with a Bachelor's degree from the European University of Madrid and a Master's degree from the University of Zaragoza (Spain), where I completed my Master's thesis about the Da Vinci Robot. My successful design and programming of the robot's movements involved using various programs. I am now seeking a PhD program to further my research interests, which include tissue engineering, medical robots, organoids, prosthesis and implant design, rehabilitation applications, scaffolds, and tissue-implant interfaces. I have a strong background in both theoretical knowledge and practical applications, and my Master's degree has enhanced my ability to autonomously find solutions to medical robotic problems. I am passionate, hardworking, and persistent in completing tasks.</p>
 </div>

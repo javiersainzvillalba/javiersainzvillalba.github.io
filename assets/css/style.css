@@ -298,6 +298,12 @@ a {
   height: 100%;
 }
 
+.home-section2 {
+  background: #f4f4f4;
+  border-radius: 10px;
+  margin: 0px 0px 15px 3px;
+}
+
 .home-intro p {
   margin: 0 0 10px;
 }

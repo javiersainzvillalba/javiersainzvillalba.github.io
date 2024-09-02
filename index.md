@@ -14,11 +14,11 @@ nav: false
     <div class="publications-column">
       <h2>General Information</h2>
       <ul>
-        <li><strong>Curriculum:</strong> You can check my curriculum vitae here.</li>
+        <li><strong>Curriculum:</strong> You can check my curriculum vitae <a href="https://javiersainzvillalba.github.io/curriculum/">here</a>.</li>
         <li><strong>Last Project:</strong> Simulation of the 2009 Da Vinci Robot (I used Fusion360, CoppeliaSim and Python).</li>
         <li><strong>Last Publication:</strong> Integration of CoppeliaSim for the Da Vinci robot - XIII Young researchers of I3A - 2024.</li>
       </ul>
-      <p>You can check all my <a href="https://javiersainzvillalba.github.io/projects/">Projects</a> or all my <a href="https://javiersainzvillalba.github.io/projects/">Publications</a>.</p>
+      <p>You can check all my <a href="https://javiersainzvillalba.github.io/projects/">Projects</a> or all my <a href="https://javiersainzvillalba.github.io/publications/">Publications</a>.</p>
     </div>
   </div>
 </div>

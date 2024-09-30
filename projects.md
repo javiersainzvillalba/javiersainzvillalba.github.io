@@ -17,31 +17,23 @@ order: 3
 traditional surgery, has drastically reduced postoperative complications by accelerating
 the recovery process. However, this more refined technique is more dependent on
 complex instruments and requires more exhaustive planning and training. Therefore,
-the creation of simulation environments is of great value. With increasingly realistic
-models, it is possible to learn to handle them in different surgical scenarios as well
-as to plan and test control algorithms at low cost and without risk to the patient or
-the maintenance of the instruments. This work presents a simulation of the Da Vinci
-robot in the CoppeliaSim simulation environment, validating the geometric model of
-the joints by testing trajectories with varying degrees of complexity. Finally, a basic
-surgical scenario is simulated as a prototype, serving as a basis for more complex
-environments.</p>
-      <p>Minimally invasive surgeries have the following procedure:</p>
-      <p>- The doctors make small incisions in the abdomen of the pacient between 0.5cm to 1cm </p>
-      <p>- Co2 is introduced in the abdominal cavity so the surgeons see well the area of operation.</p>
-      <p>- Lastly the doctors place the arm tools and the laparoscope in the small incisions made at the beginnig of the procedure</p>
+the creation of simulation environments is of great value. 
+
+This work develops a virtual environment of the Da Vinci surgical
+robot modelling the seven degrees of freedom and the working space of the tip of two surgical tools (gripper and scissors). The geometric model implements the direct and inverse kinematics and is validated by testing trajectories with varying degrees of complexity showing the joint range limitation dependencies and collision avoidance. Additionally, a user interface was designed and programmed to allow for external input of a gamepad with several buttons and two joysticks. This enabled real-time manipulation of the surgical tools in the virtual environment on a basic prototype surgical scenario. 
+
+</p>
+      <p>The entire project (kinematics, trajectories, external input interface and environment) is programmed in Python.
+      <p>- Virtual environment runs on CoppeliaSim interfacing with Python. </p>
+      <p>- 3D Model of the DaVinci robot was designed in Fusion 360 following qualitative aspects and relative dimensions of 2009 real model.</p>
+      <p>- Temporal resolution of real-time external commands was below perception of user, giving immediate feedback of movement in the simulation (< 150ms).</p>
       <p> ----</p>
-      <p>Surgical robots</p>
-      <p>There are a lot of different surgical robots but few are used in significant numbers. Nonetheless the ones that aren't used as much have also great features. These are some examples:</p>
-      <p>- Senhance robot: it has haptic retroalimentation so the surgeon feels the presure of the typ of the arm tool and offers the posibility of reusable tools</p>
-      <p>- Hugo Ras: It has data analysis in real time.</p>
-      <p>- The Da Vinci robot, the one this project is based on, is the one that is most used and known.</p>
+      <p></p>
+      <p>Precision of the gamepad used was around 1mm. </p>
+      <p>- The gripper and the scissors included modelling of applied forces on the tissue mimicking real tissue tolerance to pressure.</p>
       <img src="{{ '/assets/images/davinci.png' | relative_url }}" alt="Your Photo">
       <p> ----</p>
-      <p>The project wanted to replicate the behaviour of the Da Vinci robot (2009). For that purpouse:</p>
-      <p>- The 3D model of the Da Vinci robot is developed in Fusion 360.</p>
-      <p>- In this project CoppeliaSim is used as a physics simulator.</p>
-      <p>- I create protype trayectories and basic scenario so all the features can be tested.</p>
-      <p>- I programmed the movement and the joystick using Python and the robotics-toolbox lybrary.</p>
+      <p>The project aim was to replicate the behaviour of the Da Vinci robot (2009) in a simulated environment for the purpose of creating a first open source benchmark to develop training environments for surgeons.</p>
       <video width="640" height="360" controls>
         <source src="{{ '/assets/videos/videodavinci.mp4' | relative_url }}" type="video/mp4">
         Tu navegador no soporta la etiqueta de video.
